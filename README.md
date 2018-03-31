@@ -5,6 +5,6 @@
 Hello! This is what I learned today.
 
 
-## 20180401
-# class
-# function
+## 20180402
+* list
+* class
